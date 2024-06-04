@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T13:06:17.213Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="P8pNsGkmV-U5LwEJeM7G" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T13:37:34.735Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="HaLk1q_9qO9BO2sVT8G6" version="24.4.13" type="github">
   <diagram name="Page-1" id="YrjtGojnXMHZoEek04FM">
     <mxGraphModel dx="1366" dy="755" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -47,7 +47,7 @@
           <mxGeometry x="290" y="203.76" width="640" height="130" as="geometry" />
         </mxCell>
         <mxCell id="CwKVGQXqHjELJEUgTROC-29" value="&lt;div&gt;namespace: nginx&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;strokeColor=#879196;fillColor=none;verticalAlign=top;align=center;fontColor=#879196;dashed=1;spacingTop=3;" vertex="1" parent="CwKVGQXqHjELJEUgTROC-1">
-          <mxGeometry x="450" y="227" width="110" height="94" as="geometry" />
+          <mxGeometry x="310" y="220" width="110" height="94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
